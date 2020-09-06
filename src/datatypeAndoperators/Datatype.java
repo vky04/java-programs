@@ -19,6 +19,7 @@ public class Datatype {
         System.out.println(value);
         double value1=0.43d;
         System.out.println(value1);
+        System.out.println("raftaar");
     }
 
 }
