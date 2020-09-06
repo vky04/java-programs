@@ -17,7 +17,7 @@ public class Datatype {
         */
         float value=0.1f;
         System.out.println(value);
-        double value1=0.2d;
+        double value1=0.43d;
         System.out.println(value1);
     }
 
